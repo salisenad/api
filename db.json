@@ -3,7 +3,7 @@
 			"currency": "Euro",
 			"description": "Apple juice",
 			"image": "https://media.gettyimages.com/photos/fresh-red-apples-on-white-background-picture-id183422512?s=612x612",
-			"index": 1,
+			"id": 1,
 			"name": "Apple ",
 			"price": "1.01"
 		},
@@ -11,7 +11,7 @@
 			"currency": "Euro",
 			"description": "Fresh tomatoes juice",
 			"image": "https://assets.tetrapak.com/static/publishingimages/find-by-food/fbf_food_tomato_products.jpg",
-			"index": 2,
+			"id": 2,
 			"name": "Peeled tomatoes",
 			"price": "1.9"
 		},
@@ -19,7 +19,7 @@
 			"currency": "Euro",
 			"description": "Orange",
 			"image": "https://image.shutterstock.com/image-photo/ripe-orange-isolated-on-white-260nw-606022676.jpg",
-			"index": 3,
+			"id": 3,
 			"name": "Orange",
 			"price": "0.7"
 		}
@@ -27,5 +27,9 @@
 	"users": [{
 		"id": 1,
 		"name": "Senad Sali"
+	},
+		 {
+		"id": 2,
+		"name": "Lorem Ipsun"
 	}]
 }
